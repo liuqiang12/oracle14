@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 29 12:57:33 CST 2017
+@default-jahia-http\://maven.jahia.org/maven2/.lastUpdated=1506661052418
+http\://192.168.0.242\:8081/nexus/content/groups/public/.error=
+http\://192.168.0.242\:8081/nexus/content/groups/public/.lastUpdated=1506658813030
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1506658812526
+http\://maven.jahia.org/maven2/.error=Could not transfer artifact com.oracle\:orai18n\:jar\:11.2.0.2.0 from/to jahia (http\://maven.jahia.org/maven2/)\: GET request of\: com/oracle/orai18n/11.2.0.2.0/orai18n-11.2.0.2.0.jar from jahia failed
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1506661053329
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1506658813006
+http\://repo1.maven.org/maven2/.error=
